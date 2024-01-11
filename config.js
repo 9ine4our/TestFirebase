@@ -4,7 +4,7 @@ const firebaseConfig = {
     databaseURL: "https://upload-98f07-default-rtdb.firebaseio.com",
     projectId: "upload-98f07",
     storageBucket: "upload-98f07.appspot.com",
-    messagingSenderId: "916259211600",
-    
+    messagingSenderId: "916259211600", 
   };
+
 export default firebaseConfig;
